@@ -1,0 +1,6 @@
+{
+  "name": "Culinary Grocery Assistant",
+  "description": "Personal AI culinary and grocery assistant for weekly meal planning, allergy compliance, toddler modifications, recipe generation, Google Keep grocery sync, and Instacart integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
